@@ -8,6 +8,7 @@
 
 ## Полезный софт
 
+- key тестер https://key-test.ru/
 - показываем на экране нажатые клавиши (keystroke visualizer) https://github.com/keycastr/keycastr
 - переключатель языков https://github.com/hatashiro/kawa
 
