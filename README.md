@@ -33,6 +33,7 @@
 - https://github.com/zmkfirmware/zmk-studio
 - https://github.com/nickcoutsos/keymap-editor
   - дока https://journey.ergohaven.xyz/pages/docs/keymap-editor/
+  - https://www.youtube.com/results?search_query=zmk+keymap+editor
 
 ## Читаем
 
