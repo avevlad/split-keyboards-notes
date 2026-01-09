@@ -24,3 +24,8 @@
 
 - https://www.reddit.com/r/ErgoMechKeyboards/
 - 
+
+
+## Разные посты
+
+- https://peterlyons.com/problog/2024/05/kipra-keyboard/
