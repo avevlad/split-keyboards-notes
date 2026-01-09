@@ -28,3 +28,11 @@
 ```
  ← ↑ → ↓ 
 ```
+
+## TODO
+
+- [ ] Ресерч по запросу "стрелки"
+
+## Изучить
+
+- [ ] https://github.com/braindefender/wellum/blob/master/firmware/zmk/wellum36/wellum36.keymap
