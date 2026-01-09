@@ -35,6 +35,12 @@
   - дока https://journey.ergohaven.xyz/pages/docs/keymap-editor/
   - https://www.youtube.com/results?search_query=zmk+keymap+editor
 
+## Практикуем
+
+- https://www.keybr.com/
+- https://monkeytype.com/
+- https://klavogonki.ru/
+
 ## Читаем
 
 - https://www.reddit.com/r/ErgoMechKeyboards/
