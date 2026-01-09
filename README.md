@@ -6,9 +6,10 @@
 - ergohaven Velvet v3 (QMK, проводная)
   - https://github.com/ergohaven/vial-qmk (гибкий редактор, новичкам лучше начать с QMK)
 
-## Показываем на экране нажатые клавиши
+## Полезный софт
 
-- keystroke visualizer https://github.com/keycastr/keycastr
+- показываем на экране нажатые клавиши (keystroke visualizer) https://github.com/keycastr/keycastr
+- переключатель языков https://github.com/hatashiro/kawa
 
 
 ## Вдохновляемся
@@ -45,10 +46,13 @@
 - https://monkeytype.com/
 - https://klavogonki.ru/
 
+
+
 ## Читаем
 
 - https://www.reddit.com/r/ErgoMechKeyboards/
 - 
+
 
 
 ## Разные посты
