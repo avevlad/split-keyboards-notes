@@ -36,3 +36,10 @@
 ## Изучить
 
 - [ ] https://github.com/braindefender/wellum/blob/master/firmware/zmk/wellum36/wellum36.keymap
+- [ ] https://github.com/duckyb/urchin-zmk-firmware?tab=readme-ov-file
+- [ ] ??
+- [ ] ??
+- [ ] ??
+- [ ] ??
+- [ ] ??
+- [ ] ??
