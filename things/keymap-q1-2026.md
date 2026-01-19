@@ -44,6 +44,7 @@
 - [ ] https://sites.google.com/view/tailorkey/moergo/go60?authuser=0
 - [ ] https://sunaku.github.io/moergo-glove80-keyboard.html#layers
 - [ ] https://sunaku.github.io/home-row-mods.html
+- [ ]  Coding with Symbol Layer in "Glorious Engrammer" keymap for Glove80  https://youtu.be/fPcO5NGoDao
 - [ ] ??
 - [ ] ??
 - [ ] ??
